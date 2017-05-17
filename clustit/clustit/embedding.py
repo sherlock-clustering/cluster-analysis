@@ -3,7 +3,7 @@ import pandas
 import os
 import sys
 
-#import LargeVis
+import LargeVis
 from clustit.utils import delete_temp_file
 
 def get_column_names(outdim):
