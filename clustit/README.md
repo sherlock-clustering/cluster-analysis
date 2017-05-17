@@ -4,6 +4,8 @@ Clustit - A simple tool for clustering data
 Clustit is a command-line tool for clustering data based on an edgelist or distance matrix.
 Clustit should serve as an easy way of accessing the different clustering algorithms already implemented in Python.
 
+For paper reviewers: please read the ipynbReadme.md file. 
+
 Dependencies
 ------------
  * Python 2.7 or Python 3.5
