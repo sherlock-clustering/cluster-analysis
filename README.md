@@ -10,5 +10,5 @@ See the [Wiki](https://github.com/nlesc-sherlock/cluster-analysis/wiki) for more
 
 # Clustit
 
-Go to [Clustit](https://github.com/sherlock-clustering/cluster-analysis) for details.
+Go to [Clustit](https://github.com/sherlock-clustering/cluster-analysis/tree/master/clustit) for details.
 
