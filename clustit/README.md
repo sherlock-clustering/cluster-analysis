@@ -11,9 +11,9 @@ Dependencies
  * Python 2.7 or Python 3.5
  * Scipy
  * scikit-learn
- * hdbscan (https://github.com/scikit-learn-contrib/hdbscan)
+ * hdbscan (https://github.com/scikit-learn-contrib/hdbscan)(not necessary)
  * Pandas
- * LargeVis (https://github.com/lferry007/LargeVis)
+ * LargeVis (https://github.com/lferry007/LargeVis) (not necessary, can be used separately to generate embeddings)
 
 Example usage
 -------------
