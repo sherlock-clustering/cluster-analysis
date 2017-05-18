@@ -8,5 +8,7 @@ For reviewers: the results from the research paper "Clustering Image Noise Patte
 See the [Wiki](https://github.com/nlesc-sherlock/cluster-analysis/wiki) for more details.
 
 
+# Clustit
 
+Go to [Clustit](https://github.com/sherlock-clustering/cluster-analysis) for details.
 
