@@ -1,4 +1,0 @@
-This data set was created from the images of size 3072x2304 in the Dresden image database.
-The number of images in the dataset is 2123.
-
-

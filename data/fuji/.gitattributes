@@ -1,9 +1,0 @@
-edgelist-fuji-pce0.txt.bz2 filter=lfs diff=lfs merge=lfs -text
-edgelist-fuji-pce.txt.bz2 filter=lfs diff=lfs merge=lfs -text
-matrix-fuji-pce0.dat.bz2 filter=lfs diff=lfs merge=lfs -text
-matrix-fuji-pce0.txt.bz2 filter=lfs diff=lfs merge=lfs -text
-matrix-fuji-pce.dat.bz2 filter=lfs diff=lfs merge=lfs -text
-matrix-fuji-pce.txt.bz2 filter=lfs diff=lfs merge=lfs -text
-edgelist-fuji-ncc.txt.bz2 filter=lfs diff=lfs merge=lfs -text
-matrix-fuji-ncc.dat.bz2 filter=lfs diff=lfs merge=lfs -text
-matrix-fuji-ncc.txt.bz2 filter=lfs diff=lfs merge=lfs -text
