@@ -1,3 +1,8 @@
+Please cite the Clustit tool if you are using it in your scientific publication:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.581169.svg)](https://doi.org/10.5281/zenodo.581169)
+
+
 Clustit - A simple tool for clustering data
 ===========================================
 
