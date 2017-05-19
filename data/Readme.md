@@ -1,6 +1,6 @@
 This folder contains datasets for image forensics.
-The folders *canon, olympus, fuji, pentax* and *praktica* each contain a filelist (list of names of all images from the corresponding dataset) and 
-an edgelist (list of pairwise PCE similarity scores of the images of the corresponding dataset).
+The folders *canon, olympus, fuji, pentax* and *praktica* each contain a filelist (list of names of all images from the corresponding dataset). The edgelists (pairwise PCE similarity scores), due ot their size, are separatately available at https://figshare.com/articles/PCE_similarities_dresden_zip/5017058 .
+
 The edgelist is used as an input to the [LargeVis](https://github.com/lferry007/LargeVis) application.  
 The filelist is used to extract the image name and the source camera for benchmarking the clustering. 
 
