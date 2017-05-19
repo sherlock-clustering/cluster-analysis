@@ -1,4 +1,4 @@
-This folder contains datasets for image forensics. The same datasets are available in https://figshare.com/articles/data_zip/5016965 . 
+This folder contains datasets for image forensics. The same datasets are available in [Embedded datasets(]https://figshare.com/articles/data_zip/5016965) . 
 The edgelists (pairwise PCE similarity scores), due to their size, are available only separatately  at [PCE similarities](https://figshare.com/articles/PCE_similarities_dresden_zip/5017058) .
 
 The edgelist is used as an input to the [LargeVis](https://github.com/lferry007/LargeVis) application.  
