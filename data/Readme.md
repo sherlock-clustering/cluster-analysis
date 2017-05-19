@@ -1,8 +1,8 @@
-This folder contains datasets for image forensics.
-The folders *canon, olympus, fuji, pentax* and *praktica* each contain a filelist (list of names of all images from the corresponding dataset). The edgelists (pairwise PCE similarity scores), due ot their size, are separatately available at https://figshare.com/articles/PCE_similarities_dresden_zip/5017058 .
+This folder contains datasets for image forensics. The same datasets are available in https://figshare.com/articles/data_zip/5016965 . 
+The edgelists (pairwise PCE similarity scores), due to their size, are available only separatately  at [PCE similarities](https://figshare.com/articles/PCE_similarities_dresden_zip/5017058) .
 
 The edgelist is used as an input to the [LargeVis](https://github.com/lferry007/LargeVis) application.  
-The filelist is used to extract the image name and the source camera for benchmarking the clustering. 
+The filelists from  [PCE similarities](https://figshare.com/articles/PCE_similarities_dresden_zip/5017058) are used to extract the image name and the source camera for benchmarking the clustering. 
 
 The folder *embedded* contains the results of the embeddings of the image datasets in 3D, 2D or 8D, performed using LargeVis. In particular, *coordinates_files* contains the files that are direct output of LargeVis. *json* contains the version that can by uploaded by [DiVE](https://sherlock-clustering.github.io/Sherlock_DiVE/) via the button *choose file*.
 
